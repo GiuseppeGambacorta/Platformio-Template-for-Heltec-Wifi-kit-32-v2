@@ -5,3 +5,5 @@ The official documentation lacks information about which library to import and o
 
 Official Documentation
 https://github.com/HelTecAutomation/Heltec_ESP32
+
+there is also the driver for windows
